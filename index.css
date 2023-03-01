@@ -1,0 +1,52 @@
+.bold{
+    font-weight: bold;
+}
+.center{
+    text-align: center;
+}
+.no-border{
+    border: none;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table tr td {
+    border: 1px solid black;
+}
+#cntnt_tmpl {
+    background-color: white;
+    height: auto;
+    width: min(900px, 100%);
+    margin: 0 auto;
+    font-size: 12pt;
+    font-family: Arial;
+}
+.titulo{
+    font-size: 15pt;
+}
+.foto{
+    width: 300px;
+    padding: 0;
+}
+.foto img{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+}
+.skills{
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+}
+.skill{
+    width: 40%;
+    padding-top: 30px;
+    font-size: 13pt;
+}
+ul li{
+    text-align: start;
+    font-size: 12pt;
+    font-weight: normal;
+}

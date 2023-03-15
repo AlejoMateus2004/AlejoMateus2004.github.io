@@ -1,0 +1,101 @@
+{
+  "idiomas": [
+    {
+      "idioma": "Spanish",
+      "nivel": "Native"
+    },
+    {
+      "idioma": "English (B2)",
+      "nivel": "Open English 2021 - 2022"
+    }
+  ],
+  "skills": {
+    "soft-skills": [
+      {
+        "nombre": "Comunicación",
+        "porcentaje": 90
+      },
+      {
+        "nombre": "Trabajo en equipo",
+        "porcentaje": 95
+      },
+      {
+        "nombre": "Resolución de problemas",
+        "porcentaje": 85
+      }
+    ],
+    "prog-skills": [
+      {
+        "nombre": "Java",
+        "porcentaje": 60
+      },
+      {
+        "nombre": "Spring Framework",
+        "porcentaje": 55
+      },
+      {
+        "nombre": "JPA",
+        "porcentaje": 65
+      },
+      {
+        "nombre": "HTML",
+        "porcentaje": 60
+      },
+      {
+        "nombre": "Css",
+        "porcentaje": 50
+      },
+      {
+        "nombre": "SQL",
+        "porcentaje": 60
+      },
+      {
+        "nombre": "AWS",
+        "porcentaje": 10
+      },
+      {
+        "nombre": "Azure",
+        "porcentaje": 15
+      },
+      {
+        "nombre": "Computer vision",
+        "porcentaje": 70
+      },
+      {
+        "nombre": "Git",
+        "porcentaje": 65
+      },
+      {
+        "nombre": "Docker",
+        "porcentaje": 40
+      }
+    ]
+  },
+  "persona": {
+    "nombre": "Miguel Alejandro",
+    "apellido": "Mateus Arango",
+    "telefono": "+57 321-521-6122",
+    "mail": "alejandromateus711@gmail.com",
+    "foto": "FotoCV.png",
+    "job": "Java Developer / Software Enginner",
+    "linkedin-url": "https://www.linkedin.com/in/alejandro-mateus/",
+    "descripcion": "Hello! I'm Alejandro Mateus, a creative and collaborative professional with clever skills and leadership experience. I'm passionate about teamwork and always strive for the best quality in every project and task. I'm an innovative thinker and constantly seek ways to overcome challenges and achieve company goals. I also stand out for my ability to work independently and take responsibility for meeting deadlines and goals. I enjoy learning new skills and am always looking for opportunities to grow professionally. I'm confident that my combination of creativity, leadership, and focus on quality can be of great value to any team or project."
+  },
+  "educacion": [
+    {
+      "lugar": "Platzi Platform",
+      "descripcion": "",
+      "periodo": "2022 - Present"
+    },
+    {
+      "lugar": "Open English Platform",
+      "descripcion": "",
+      "periodo": "Dec 2021 - Dec 2022"
+    },
+    {
+      "lugar": "SENA",
+      "descripcion": "Tecnologist ADSI<br> Servicio Nacional de Aprendizaje",
+      "periodo": "Jun 2021 - Jun 2023"
+    }
+  ]
+}

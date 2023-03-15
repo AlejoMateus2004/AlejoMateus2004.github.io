@@ -345,11 +345,11 @@ h3 {
   width: 100%;
 }
 
-.resume .func .skills-prog .skills div{
-  width: 50%;
-}
+
 .resume .func .skills-prog ul {
   margin-left: 15px;
+  columns: 2; 
+
 }
 .resume .func .skills-prog ul li {
   margin-bottom: 8px;
